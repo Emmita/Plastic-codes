@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/menu_one"
+            android:icon="@mipmap/ic_uno"
+            android:title="@string/code_one_name" />
+        <item
+            android:id="@+id/menu_two"
+            android:icon="@mipmap/ic_dos"
+            android:title="@string/code_two_name" />
+        <item
+            android:id="@+id/menu_three"
+            android:icon="@mipmap/ic_tres"
+            android:title="@string/code_three_name" />
+        <item
+            android:id="@+id/menu_four"
+            android:icon="@mipmap/ic_cuatro"
+            android:title="@string/code_four_name" />
+        <item
+            android:id="@+id/menu_five"
+            android:icon="@mipmap/ic_cinco"
+            android:title="@string/code_five_name" />
+        <item
+            android:id="@+id/menu_six"
+            android:icon="@mipmap/ic_seis"
+            android:title="@string/code_six_name" />
+        <item
+            android:id="@+id/menu_seven"
+            android:icon="@mipmap/ic_siete"
+            android:title="@string/code_seven_name" />
+
+    </group>
+
+</menu>
